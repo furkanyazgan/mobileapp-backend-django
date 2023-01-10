@@ -1,6 +1,6 @@
 # mobileapp-backend-django
 
-## Setting UP
+## SETUP
 
 Install python3-venv :
 
